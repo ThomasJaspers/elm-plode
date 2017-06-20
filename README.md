@@ -2,9 +2,9 @@
 
 ## Tutorials and documentation for Elm
 
-https://guide.elm-lang.org
-http://elmprogramming.com/why-elm.html
-http://package.elm-lang.org
+https://guide.elm-lang.org   
+http://elmprogramming.com/why-elm.html   
+http://package.elm-lang.org   
 
 ## Setting up a new project
 
