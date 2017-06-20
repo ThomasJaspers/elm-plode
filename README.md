@@ -1,5 +1,9 @@
 # elm-plode
 
+## Tutorials for Elm
+
+https://guide.elm-lang.org
+
 ## Setting up a new project
 
 Helpful articles:   
