@@ -60,7 +60,7 @@ view model =
         [ class "jumbotron" ]
         [ div [ class "container" ]
             [ div [ class "row" ]
-                [ h1 [] [ text "Elm Unit Converter" ]
+                [ h1 [] [ span [ class "glyphicon glyphicon-equalizer" ] [], text " Elm Unit Converter" ]
                 ]
             ]
         ]
